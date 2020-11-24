@@ -5,6 +5,10 @@
 
 A new Flutter project.
 
+## Preview
+
+![Screenshot](https://github.com/GabbyOwusu/flutterweb-landing-page/blob/main/images/Screenshot%20(4).png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
